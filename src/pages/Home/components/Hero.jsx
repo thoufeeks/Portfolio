@@ -41,7 +41,7 @@ const Hero = () => {
                 <h1>
                   <span className="hero__content__title">
                     <span className="hero__content__title-first">I'm</span>{' '}
-                    <span className="hero__content__title-second">Rakesh</span>
+                    <span className="hero__content__title-second">Ebangha Ebane</span>
                   </span>
                 </h1>
                 <h2>
